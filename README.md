@@ -1,6 +1,8 @@
-# catalog
+# Products Catalog
 
-A new Flutter project.
+A small scale flutter app to show products in grod forms.
+
+![Alt text](demo.png "Demo")
 
 ## Getting Started
 
